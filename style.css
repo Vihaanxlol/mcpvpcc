@@ -1,0 +1,21 @@
+body{
+    background-repeat: no-repeat;
+    color: white;
+}
+
+.container {
+    border-radius: 20px;
+    border: solid white 2px;
+}
+
+p{
+    color: white;
+    font-size: 25px;
+}
+
+.line{
+    height:6px;
+    width:100px;
+    background-color:white;
+    margin:8px auto;
+  }
